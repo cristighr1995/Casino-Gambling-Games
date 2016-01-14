@@ -1,0 +1,16 @@
+C:\Users\Gherghina\Desktop\c#\Poker\Poker\bin\Debug\Poker.exe
+C:\Users\Gherghina\Desktop\c#\Poker\Poker\bin\Debug\Poker.pdb
+C:\Users\Gherghina\Desktop\c#\Poker\Poker\obj\x86\Debug\Poker.Form1.resources
+C:\Users\Gherghina\Desktop\c#\Poker\Poker\obj\x86\Debug\Poker.Properties.Resources.resources
+C:\Users\Gherghina\Desktop\c#\Poker\Poker\obj\x86\Debug\Poker.csproj.GenerateResource.Cache
+C:\Users\Gherghina\Desktop\c#\Poker\Poker\obj\x86\Debug\Poker.exe
+C:\Users\Gherghina\Desktop\c#\Poker\Poker\obj\x86\Debug\Poker.pdb
+C:\Users\Gherghina\Desktop\c#\Poker\Poker\obj\x86\Debug\Poker.csprojResolveAssemblyReference.cache
+C:\Users\Gherghina\Documents\c#\Poker\Poker\obj\x86\Debug\Poker.exe
+C:\Users\Gherghina\Documents\c#\Poker\Poker\obj\x86\Debug\Poker.pdb
+C:\Users\Gherghina\Documents\c#\Poker\Poker\bin\Debug\Poker.exe
+C:\Users\Gherghina\Documents\c#\Poker\Poker\bin\Debug\Poker.pdb
+C:\Users\Gherghina\Documents\c#\Poker\Poker\obj\x86\Debug\Poker.csprojResolveAssemblyReference.cache
+C:\Users\Gherghina\Documents\c#\Poker\Poker\obj\x86\Debug\Poker.Form1.resources
+C:\Users\Gherghina\Documents\c#\Poker\Poker\obj\x86\Debug\Poker.Properties.Resources.resources
+C:\Users\Gherghina\Documents\c#\Poker\Poker\obj\x86\Debug\Poker.csproj.GenerateResource.Cache

@@ -1,0 +1,120 @@
+C:\Users\Gherghina\AppData\Local\Temporary Projects\Casino Royale\bin\Debug\Database1.sdf
+C:\Users\Gherghina\AppData\Local\Temporary Projects\Casino Royale\bin\Debug\Casino Royale.exe.config
+C:\Users\Gherghina\AppData\Local\Temporary Projects\Casino Royale\bin\Debug\Casino Royale.exe
+C:\Users\Gherghina\AppData\Local\Temporary Projects\Casino Royale\bin\Debug\Casino Royale.pdb
+C:\Users\Gherghina\AppData\Local\Temporary Projects\Casino Royale\obj\x86\Debug\Casino_Royale.Form1.resources
+C:\Users\Gherghina\AppData\Local\Temporary Projects\Casino Royale\obj\x86\Debug\Casino_Royale.Properties.Resources.resources
+C:\Users\Gherghina\AppData\Local\Temporary Projects\Casino Royale\obj\x86\Debug\Casino Royale.csproj.GenerateResource.Cache
+C:\Users\Gherghina\AppData\Local\Temporary Projects\Casino Royale\obj\x86\Debug\Casino Royale.exe
+C:\Users\Gherghina\AppData\Local\Temporary Projects\Casino Royale\obj\x86\Debug\Casino Royale.pdb
+C:\Users\Gherghina\Desktop\c#\Casino Royale\Casino Royale\bin\Debug\Casino Royale.exe.config
+C:\Users\Gherghina\Desktop\c#\Casino Royale\Casino Royale\obj\x86\Debug\Casino Royale.exe
+C:\Users\Gherghina\Desktop\c#\Casino Royale\Casino Royale\obj\x86\Debug\Casino Royale.pdb
+C:\Users\Gherghina\Desktop\c#\Casino Royale\Casino Royale\bin\Debug\Database1.sdf
+C:\Users\Gherghina\Desktop\c#\Casino Royale\Casino Royale\bin\Debug\Casino Royale.exe
+C:\Users\Gherghina\Desktop\c#\Casino Royale\Casino Royale\bin\Debug\Casino Royale.pdb
+C:\Users\Gherghina\Desktop\c#\Casino Royale\Casino Royale\obj\x86\Debug\Casino_Royale.Form1.resources
+C:\Users\Gherghina\Desktop\c#\Casino Royale\Casino Royale\obj\x86\Debug\Casino_Royale.Properties.Resources.resources
+C:\Users\Gherghina\Desktop\c#\Casino Royale\Casino Royale\obj\x86\Debug\Casino Royale.csproj.GenerateResource.Cache
+C:\Users\Gherghina\Desktop\c#\Casino Royale\Casino Royale\obj\x86\Debug\Casino_Royale.Form2.resources
+C:\Users\Gherghina\Desktop\c#\Casino Royale\Casino Royale\obj\x86\Debug\Casino_Royale.Form3.resources
+C:\Users\Gherghina\Desktop\c#\Casino Royale\Casino Royale\obj\x86\Debug\Casino Royale.csprojResolveAssemblyReference.cache
+C:\Users\Gherghina\Desktop\c#\Casino Royale\Casino Royale\obj\x86\Debug\Casino_Royale.Form4.resources
+C:\Users\Gherghina\Desktop\c#\Casino Royale\Casino Royale\obj\x86\Debug\Casino_Royale.Form5.resources
+C:\Users\Gherghina\Desktop\c#\Casino Royale\Casino Royale\obj\x86\Debug\Casino_Royale.Form6.resources
+C:\Users\Gherghina\Documents\c#\Casino Royale\Casino Royale\bin\Debug\Casino Royale.exe.config
+C:\Users\Gherghina\Documents\c#\Casino Royale\Casino Royale\obj\x86\Debug\Casino Royale.exe
+C:\Users\Gherghina\Documents\c#\Casino Royale\Casino Royale\obj\x86\Debug\Casino Royale.pdb
+C:\Users\Gherghina\Documents\c#\Casino Royale\Casino Royale\bin\Debug\Database1.sdf
+C:\Users\Gherghina\Documents\c#\Casino Royale\Casino Royale\bin\Debug\Casino Royale.exe
+C:\Users\Gherghina\Documents\c#\Casino Royale\Casino Royale\bin\Debug\Casino Royale.pdb
+C:\Users\Gherghina\Documents\c#\Casino Royale\Casino Royale\obj\x86\Debug\Casino Royale.csprojResolveAssemblyReference.cache
+C:\Users\Gherghina\Documents\c#\Casino Royale\Casino Royale\obj\x86\Debug\Casino_Royale.Form1.resources
+C:\Users\Gherghina\Documents\c#\Casino Royale\Casino Royale\obj\x86\Debug\Casino_Royale.Form2.resources
+C:\Users\Gherghina\Documents\c#\Casino Royale\Casino Royale\obj\x86\Debug\Casino_Royale.Form3.resources
+C:\Users\Gherghina\Documents\c#\Casino Royale\Casino Royale\obj\x86\Debug\Casino_Royale.Form4.resources
+C:\Users\Gherghina\Documents\c#\Casino Royale\Casino Royale\obj\x86\Debug\Casino_Royale.Form5.resources
+C:\Users\Gherghina\Documents\c#\Casino Royale\Casino Royale\obj\x86\Debug\Casino_Royale.Form6.resources
+C:\Users\Gherghina\Documents\c#\Casino Royale\Casino Royale\obj\x86\Debug\Casino_Royale.Properties.Resources.resources
+C:\Users\Gherghina\Documents\c#\Casino Royale\Casino Royale\obj\x86\Debug\Casino Royale.csproj.GenerateResource.Cache
+C:\Users\Gherghina\Desktop\Casino Royale\Casino Royale\bin\Debug\Casino Royale.exe.config
+C:\Users\Gherghina\Desktop\Casino Royale\Casino Royale\obj\x86\Debug\Casino Royale.exe
+C:\Users\Gherghina\Desktop\Casino Royale\Casino Royale\obj\x86\Debug\Casino Royale.pdb
+C:\Users\Gherghina\Desktop\Casino Royale\Casino Royale\bin\Debug\Database1.sdf
+C:\Users\Gherghina\Desktop\Casino Royale\Casino Royale\bin\Debug\Casino Royale.exe
+C:\Users\Gherghina\Desktop\Casino Royale\Casino Royale\bin\Debug\Casino Royale.pdb
+C:\Users\Gherghina\Desktop\Casino Royale\Casino Royale\obj\x86\Debug\Casino Royale.csprojResolveAssemblyReference.cache
+C:\Users\Gherghina\Desktop\Casino Royale\Casino Royale\obj\x86\Debug\Casino_Royale.Form1.resources
+C:\Users\Gherghina\Desktop\Casino Royale\Casino Royale\obj\x86\Debug\Casino_Royale.Form2.resources
+C:\Users\Gherghina\Desktop\Casino Royale\Casino Royale\obj\x86\Debug\Casino_Royale.Form3.resources
+C:\Users\Gherghina\Desktop\Casino Royale\Casino Royale\obj\x86\Debug\Casino_Royale.Form4.resources
+C:\Users\Gherghina\Desktop\Casino Royale\Casino Royale\obj\x86\Debug\Casino_Royale.Form5.resources
+C:\Users\Gherghina\Desktop\Casino Royale\Casino Royale\obj\x86\Debug\Casino_Royale.Form6.resources
+C:\Users\Gherghina\Desktop\Casino Royale\Casino Royale\obj\x86\Debug\Casino_Royale.Properties.Resources.resources
+C:\Users\Gherghina\Desktop\Casino Royale\Casino Royale\obj\x86\Debug\Casino Royale.csproj.GenerateResource.Cache
+C:\Users\Gherghina\Desktop\code\Casino Royale\Casino Royale\bin\Debug\Casino Royale.exe.config
+C:\Users\Gherghina\Desktop\code\Casino Royale\Casino Royale\obj\x86\Debug\Casino Royale.exe
+C:\Users\Gherghina\Desktop\code\Casino Royale\Casino Royale\obj\x86\Debug\Casino Royale.pdb
+C:\Users\Gherghina\Desktop\code\Casino Royale\Casino Royale\bin\Debug\Database1.sdf
+C:\Users\Gherghina\Desktop\code\Casino Royale\Casino Royale\bin\Debug\Casino Royale.exe
+C:\Users\Gherghina\Desktop\code\Casino Royale\Casino Royale\bin\Debug\Casino Royale.pdb
+C:\Users\Gherghina\Desktop\code\Casino Royale\Casino Royale\obj\x86\Debug\Casino Royale.csprojResolveAssemblyReference.cache
+C:\Users\Gherghina\Desktop\code\Casino Royale\Casino Royale\obj\x86\Debug\Casino_Royale.Form1.resources
+C:\Users\Gherghina\Desktop\code\Casino Royale\Casino Royale\obj\x86\Debug\Casino_Royale.Form2.resources
+C:\Users\Gherghina\Desktop\code\Casino Royale\Casino Royale\obj\x86\Debug\Casino_Royale.Form3.resources
+C:\Users\Gherghina\Desktop\code\Casino Royale\Casino Royale\obj\x86\Debug\Casino_Royale.Form4.resources
+C:\Users\Gherghina\Desktop\code\Casino Royale\Casino Royale\obj\x86\Debug\Casino_Royale.Form5.resources
+C:\Users\Gherghina\Desktop\code\Casino Royale\Casino Royale\obj\x86\Debug\Casino_Royale.Form6.resources
+C:\Users\Gherghina\Desktop\code\Casino Royale\Casino Royale\obj\x86\Debug\Casino_Royale.Properties.Resources.resources
+C:\Users\Gherghina\Desktop\code\Casino Royale\Casino Royale\obj\x86\Debug\Casino Royale.csproj.GenerateResource.Cache
+C:\Users\Gherghina\Desktop\Slot Machine\Casino Royale\Casino Royale\bin\Debug\Casino Royale.exe.config
+C:\Users\Gherghina\Desktop\Slot Machine\Casino Royale\Casino Royale\obj\x86\Debug\Casino Royale.exe
+C:\Users\Gherghina\Desktop\Slot Machine\Casino Royale\Casino Royale\obj\x86\Debug\Casino Royale.pdb
+C:\Users\Gherghina\Desktop\Slot Machine\Casino Royale\Casino Royale\bin\Debug\Database1.sdf
+C:\Users\Gherghina\Desktop\Slot Machine\Casino Royale\Casino Royale\bin\Debug\Casino Royale.exe
+C:\Users\Gherghina\Desktop\Slot Machine\Casino Royale\Casino Royale\obj\x86\Debug\Casino Royale.csprojResolveAssemblyReference.cache
+C:\Users\Gherghina\Desktop\Slot Machine\Casino Royale\Casino Royale\obj\x86\Debug\Casino_Royale.Form1.resources
+C:\Users\Gherghina\Desktop\Slot Machine\Casino Royale\Casino Royale\obj\x86\Debug\Casino_Royale.Form2.resources
+C:\Users\Gherghina\Desktop\Slot Machine\Casino Royale\Casino Royale\obj\x86\Debug\Casino_Royale.Form3.resources
+C:\Users\Gherghina\Desktop\Slot Machine\Casino Royale\Casino Royale\obj\x86\Debug\Casino_Royale.Form4.resources
+C:\Users\Gherghina\Desktop\Slot Machine\Casino Royale\Casino Royale\obj\x86\Debug\Casino_Royale.Form5.resources
+C:\Users\Gherghina\Desktop\Slot Machine\Casino Royale\Casino Royale\obj\x86\Debug\Casino_Royale.Form6.resources
+C:\Users\Gherghina\Desktop\Slot Machine\Casino Royale\Casino Royale\obj\x86\Debug\Casino_Royale.Properties.Resources.resources
+C:\Users\Gherghina\Desktop\Slot Machine\Casino Royale\Casino Royale\obj\x86\Debug\Casino Royale.csproj.GenerateResource.Cache
+C:\Users\Gherghina\Desktop\Slot Machine\Casino Royale\Casino Royale\bin\Debug\Casino Royale.pdb
+C:\Users\Gherghina\Documents\Casino Royale\Casino Royale\bin\Debug\Casino Royale.exe.config
+C:\Users\Gherghina\Documents\Casino Royale\Casino Royale\obj\x86\Debug\Casino Royale.exe
+C:\Users\Gherghina\Documents\Casino Royale\Casino Royale\obj\x86\Debug\Casino Royale.pdb
+C:\Users\Gherghina\Documents\Casino Royale\Casino Royale\bin\Debug\Database1.sdf
+C:\Users\Gherghina\Documents\Casino Royale\Casino Royale\bin\Debug\Casino Royale.exe
+C:\Users\Gherghina\Documents\Casino Royale\Casino Royale\bin\Debug\Casino Royale.pdb
+C:\Users\Gherghina\Documents\Casino Royale\Casino Royale\obj\x86\Debug\Casino Royale.csprojResolveAssemblyReference.cache
+C:\Users\Gherghina\Documents\Casino Royale\Casino Royale\obj\x86\Debug\Casino_Royale.Form1.resources
+C:\Users\Gherghina\Documents\Casino Royale\Casino Royale\obj\x86\Debug\Casino_Royale.Form2.resources
+C:\Users\Gherghina\Documents\Casino Royale\Casino Royale\obj\x86\Debug\Casino_Royale.Form3.resources
+C:\Users\Gherghina\Documents\Casino Royale\Casino Royale\obj\x86\Debug\Casino_Royale.Form4.resources
+C:\Users\Gherghina\Documents\Casino Royale\Casino Royale\obj\x86\Debug\Casino_Royale.Form5.resources
+C:\Users\Gherghina\Documents\Casino Royale\Casino Royale\obj\x86\Debug\Casino_Royale.Form6.resources
+C:\Users\Gherghina\Documents\Casino Royale\Casino Royale\obj\x86\Debug\Casino_Royale.Properties.Resources.resources
+C:\Users\Gherghina\Documents\Casino Royale\Casino Royale\obj\x86\Debug\Casino Royale.csproj.GenerateResource.Cache
+G:\Casino Royale 2 ala bun\Casino Royale\bin\Debug\Casino Royale.exe.config
+G:\Casino Royale 2 ala bun\Casino Royale\obj\x86\Debug\Casino Royale.exe
+G:\Casino Royale 2 ala bun\Casino Royale\obj\x86\Debug\Casino Royale.pdb
+H:\Casino Royale 2 ala bun\Casino Royale\bin\Debug\Casino Royale.exe.config
+H:\Casino Royale 2 ala bun\Casino Royale\obj\x86\Debug\Casino Royale.exe
+H:\Casino Royale 2 ala bun\Casino Royale\obj\x86\Debug\Casino Royale.pdb
+C:\Users\Gherghina\Desktop\Casino Royale 2 ala bun\Casino Royale\bin\Debug\Casino Royale.exe.config
+C:\Users\Gherghina\Desktop\Casino Royale 2 ala bun\Casino Royale\obj\x86\Debug\Casino Royale.exe
+C:\Users\Gherghina\Desktop\Casino Royale 2 ala bun\Casino Royale\obj\x86\Debug\Casino Royale.pdb
+C:\Users\Gherghina\Desktop\Casino Royale 2 ala bun\Casino Royale\bin\Debug\Database1.sdf
+C:\Users\Gherghina\Desktop\Casino Royale 2 ala bun\Casino Royale\bin\Debug\Casino Royale.exe
+C:\Users\Gherghina\Desktop\Casino Royale 2 ala bun\Casino Royale\bin\Debug\Casino Royale.pdb
+C:\Users\Gherghina\Desktop\Casino Royale 2 ala bun\Casino Royale\obj\x86\Debug\Casino Royale.csprojResolveAssemblyReference.cache
+C:\Users\Gherghina\Desktop\Casino Royale 2 ala bun\Casino Royale\obj\x86\Debug\Casino_Royale.Form1.resources
+C:\Users\Gherghina\Desktop\Casino Royale 2 ala bun\Casino Royale\obj\x86\Debug\Casino_Royale.Form2.resources
+C:\Users\Gherghina\Desktop\Casino Royale 2 ala bun\Casino Royale\obj\x86\Debug\Casino_Royale.Form3.resources
+C:\Users\Gherghina\Desktop\Casino Royale 2 ala bun\Casino Royale\obj\x86\Debug\Casino_Royale.Form4.resources
+C:\Users\Gherghina\Desktop\Casino Royale 2 ala bun\Casino Royale\obj\x86\Debug\Casino_Royale.Form5.resources
+C:\Users\Gherghina\Desktop\Casino Royale 2 ala bun\Casino Royale\obj\x86\Debug\Casino_Royale.Form6.resources
+C:\Users\Gherghina\Desktop\Casino Royale 2 ala bun\Casino Royale\obj\x86\Debug\Casino_Royale.Properties.Resources.resources
+C:\Users\Gherghina\Desktop\Casino Royale 2 ala bun\Casino Royale\obj\x86\Debug\Casino Royale.csproj.GenerateResource.Cache

@@ -1,0 +1,1 @@
+S-ar putea sa dea eroare ca nu a gasit System.Data.SqlServerCe in functie de versiunea Visual Studio.
