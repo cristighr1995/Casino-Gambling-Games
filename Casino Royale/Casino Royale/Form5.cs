@@ -133,14 +133,14 @@ namespace Casino_Royale
                 }
                 else
                 {
-                    MessageBox.Show("Credit Indisponibil !");
+                    MessageBox.Show("Insufficient credit!");
                 }
             }
             else
             {
-                if (textBox1.Text == "" && comboBox1.SelectedIndex != -1) MessageBox.Show("Nu ati ales suma de pariere !");
-                if(comboBox1.SelectedIndex == -1 && textBox1.Text != "") MessageBox.Show("Nu ati ales niciun pariu !");
-                if (textBox1.Text == "" && comboBox1.SelectedIndex == -1) MessageBox.Show("Suma si pariul nu sunt completate !");
+                if (textBox1.Text == "" && comboBox1.SelectedIndex != -1) MessageBox.Show("Please choose a bet sum!");
+                if(comboBox1.SelectedIndex == -1 && textBox1.Text != "") MessageBox.Show("Please choose a bet!");
+                if (textBox1.Text == "" && comboBox1.SelectedIndex == -1) MessageBox.Show("Bet sum and bet are empty!");
             }
         }
 
@@ -157,7 +157,7 @@ namespace Casino_Royale
                 {
                     credit = credit + Convert.ToInt32(textBox1.Text) * 2;
                     label9.Text = credit.ToString();
-                    MessageBox.Show("Felicitari ! Ati castigat " + (Convert.ToInt32(textBox1.Text) * 2).ToString() + " !");
+                    MessageBox.Show("Congratulations! You have won " + (Convert.ToInt32(textBox1.Text) * 2).ToString() + " !");
                 }
             }
             if (comboBox1.SelectedIndex == 1)
@@ -168,7 +168,7 @@ namespace Casino_Royale
                 {
                     credit = credit + Convert.ToInt32(textBox1.Text) * 2;
                     label9.Text = credit.ToString();
-                    MessageBox.Show("Felicitari ! Ati castigat " + (Convert.ToInt32(textBox1.Text) * 2).ToString() + " !");
+                    MessageBox.Show("Congratulations! You have won " + (Convert.ToInt32(textBox1.Text) * 2).ToString() + " !");
                 }
             }
             if (comboBox1.SelectedIndex == 2)
@@ -178,7 +178,7 @@ namespace Casino_Royale
                 {
                     credit = credit + Convert.ToInt32(textBox1.Text) * 6;
                     label9.Text = credit.ToString();
-                    MessageBox.Show("Felicitari ! Ati castigat " + (Convert.ToInt32(textBox1.Text) * 6).ToString() + " !");
+                    MessageBox.Show("Congratulations! You have won " + (Convert.ToInt32(textBox1.Text) * 6).ToString() + " !");
                 }
             }
             if (comboBox1.SelectedIndex == 3)
@@ -187,7 +187,7 @@ namespace Casino_Royale
                 if ((attemp + attemp2 + 2) >= 7)
                 {
                     credit = credit + Convert.ToInt32(textBox1.Text) * 2;
-                    MessageBox.Show("Felicitari ! Ati castigat " + (Convert.ToInt32(textBox1.Text) * 2).ToString() + " !");
+                    MessageBox.Show("Congratulations! You have won " + (Convert.ToInt32(textBox1.Text) * 2).ToString() + " !");
                     label9.Text = credit.ToString();
                 }
             }
@@ -198,7 +198,7 @@ namespace Casino_Royale
                 {
                     credit = credit + Convert.ToInt32(textBox1.Text) * 3;
                     label9.Text = credit.ToString();
-                    MessageBox.Show("Felicitari ! Ati castigat " + (Convert.ToInt32(textBox1.Text) * 3).ToString() + " !");
+                    MessageBox.Show("Congratulations! You have won " + (Convert.ToInt32(textBox1.Text) * 3).ToString() + " !");
                 }
             }
             if (comboBox1.SelectedIndex == 5)
@@ -208,7 +208,7 @@ namespace Casino_Royale
                 {
                     credit = credit + Convert.ToInt32(textBox1.Text) * 36;
                     label9.Text = credit.ToString();
-                    MessageBox.Show("Felicitari ! Ati castigat " + (Convert.ToInt32(textBox1.Text) * 36).ToString() + " !");
+                    MessageBox.Show("Congratulations! You have won " + (Convert.ToInt32(textBox1.Text) * 36).ToString() + " !");
                 }
             }
             if (comboBox1.SelectedIndex == 6)
@@ -218,7 +218,7 @@ namespace Casino_Royale
                 {
                     credit = credit + Convert.ToInt32(textBox1.Text) * 36;
                     label9.Text = credit.ToString();
-                    MessageBox.Show("Felicitari ! Ati castigat " + (Convert.ToInt32(textBox1.Text) * 36).ToString() + " !");
+                    MessageBox.Show("Congratulations! You have won " + (Convert.ToInt32(textBox1.Text) * 36).ToString() + " !");
                 }
             }
             if (comboBox1.SelectedIndex == 7)
@@ -228,7 +228,7 @@ namespace Casino_Royale
                 {
                     credit = credit + Convert.ToInt32(textBox1.Text) * 36;
                     label9.Text = credit.ToString();
-                    MessageBox.Show("Felicitari ! Ati castigat " + (Convert.ToInt32(textBox1.Text) * 36).ToString() + " !");
+                    MessageBox.Show("Congratulations! You have won " + (Convert.ToInt32(textBox1.Text) * 36).ToString() + " !");
                 }
             }
             if (comboBox1.SelectedIndex == 8)
@@ -238,7 +238,7 @@ namespace Casino_Royale
                 {
                     credit = credit + Convert.ToInt32(textBox1.Text) * 36;
                     label9.Text = credit.ToString();
-                    MessageBox.Show("Felicitari ! Ati castigat " + (Convert.ToInt32(textBox1.Text) * 36).ToString() + " !");
+                    MessageBox.Show("Congratulations! You have won " + (Convert.ToInt32(textBox1.Text) * 36).ToString() + " !");
                 }
             }
             if (comboBox1.SelectedIndex == 9)
@@ -248,7 +248,7 @@ namespace Casino_Royale
                 {
                     credit = credit + Convert.ToInt32(textBox1.Text) * 36;
                     label9.Text = credit.ToString();
-                    MessageBox.Show("Felicitari ! Ati castigat " + (Convert.ToInt32(textBox1.Text) * 36).ToString() + " !");
+                    MessageBox.Show("Congratulations! You have won " + (Convert.ToInt32(textBox1.Text) * 36).ToString() + " !");
                 }
             }
             if (comboBox1.SelectedIndex == 10)
@@ -258,13 +258,13 @@ namespace Casino_Royale
                 {
                     credit = credit + Convert.ToInt32(textBox1.Text) * 36;
                     label9.Text = credit.ToString();
-                    MessageBox.Show("Felicitari ! Ati castigat " + (Convert.ToInt32(textBox1.Text) * 36).ToString() + " !");
+                    MessageBox.Show("Congratulations! You have won " + (Convert.ToInt32(textBox1.Text) * 36).ToString() + " !");
                 }
             }
             //in cazul in care creditul a ramas neschimbat inseamna ca niciun pariu nu e bun
             if (scor == credit)
             {
-                MessageBox.Show("Pariul ales nu este castigator ! Data viitoare este cu noroc !");
+                MessageBox.Show("Sorry! Maybe next time!");
             }
             button2.Enabled = false;
             comboBox1.Enabled = true;

@@ -215,17 +215,17 @@ namespace Casino_Royale
                     }
                     else
                     {
-                        MessageBox.Show("Credit Indisponibil");
+                        MessageBox.Show("Insufficient credit!");
                     }
                 }
                 else
                 {
-                    MessageBox.Show("Unul sau mai multe numere alese depasesc numerele din extragere");
+                    MessageBox.Show("Number out of bounds! You should pick numbers less than 49!");
                 }
             }
             else
             {
-                MessageBox.Show("Nu ati completat toate numerele sau suma de pariere");
+                MessageBox.Show("Missing numbers!");
             }
         }
 
@@ -245,15 +245,15 @@ namespace Casino_Royale
                     if (textBox5.Text == matrice[i, j].Text) scor++;
                     if (textBox7.Text == matrice[i, j].Text) scor++;
                 }
-            if (scor == 0) MessageBox.Show("Niciun numar nu este bun");
-            if (scor == 1) MessageBox.Show("Ati ales doar un 1 numar corect ! Data viitoare poate aveti mai mult noroc !");
-            if (scor == 2) MessageBox.Show("Ati ales doar 2 numere corecte ! Data viitoare poate aveti mai mult noroc !");
-            if (scor == 3) MessageBox.Show("Ati ales doar 3 numere corecte ! Data viitoare poate aveti mai mult noroc !");
-            if (scor == 4) MessageBox.Show("Ati ales doar 4 numere corecte ! Data viitoare poate aveti mai mult noroc !");
-            if (scor == 5) MessageBox.Show("Ati ales 5 numere corecte ! Data viitoare poate aveti mai mult noroc !");
+            if (scor == 0) MessageBox.Show("None");
+            if (scor == 1) MessageBox.Show("1 correct number! Maybe next time!");
+            if (scor == 2) MessageBox.Show("2 correct numbers! Maybe next time!");
+            if (scor == 3) MessageBox.Show("3 correct numbers! Maybe next time!");
+            if (scor == 4) MessageBox.Show("4 correct numbers! Maybe next time!");
+            if (scor == 5) MessageBox.Show("5 correct numbers! Maybe next time!");
             if (scor == 6)
             {
-                MessageBox.Show("Felicitari !!! Ati ales 6 numere corecte ! Ati castigat " + (Convert.ToInt32(textBox6.Text) * 50).ToString() + " !");
+                MessageBox.Show("Congratulations!!! 6 correct numbers! You have won " + (Convert.ToInt32(textBox6.Text) * 50).ToString() + "!");
                 credit = credit + Convert.ToInt32(textBox6.Text) * 50;
                 label12.Text = credit.ToString();
             }
@@ -267,5 +267,9 @@ namespace Casino_Royale
             formDoi.ShowDialog();
         }
 
+        private void label10_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

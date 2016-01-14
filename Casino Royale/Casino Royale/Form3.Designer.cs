@@ -63,9 +63,9 @@
             this.label5.ForeColor = System.Drawing.Color.White;
             this.label5.Location = new System.Drawing.Point(209, 12);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(183, 24);
+            this.label5.Size = new System.Drawing.Size(59, 24);
             this.label5.TabIndex = 4;
-            this.label5.Text = "CREDIT DISPONIBIL";
+            this.label5.Text = "Credit";
             // 
             // label6
             // 
@@ -98,9 +98,9 @@
             this.label7.ForeColor = System.Drawing.Color.White;
             this.label7.Location = new System.Drawing.Point(215, 201);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(150, 24);
+            this.label7.Size = new System.Drawing.Size(78, 24);
             this.label7.TabIndex = 7;
-            this.label7.Text = "Suma de pariere";
+            this.label7.Text = "Bet sum";
             this.label7.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // button1
@@ -145,7 +145,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(171, 48);
             this.label1.TabIndex = 11;
-            this.label1.Text = "IESIRE";
+            this.label1.Text = "EXIT";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.label1.Click += new System.EventHandler(this.label1_Click);
             // 

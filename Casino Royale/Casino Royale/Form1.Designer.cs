@@ -88,7 +88,7 @@
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(250, 23);
             this.label5.TabIndex = 6;
-            this.label5.Text = "Va rugam sa va autentificati";
+            this.label5.Text = "Please authentify yourself";
             this.label5.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // pictureBox1
@@ -108,20 +108,20 @@
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(100, 41);
             this.button1.TabIndex = 8;
-            this.button1.Text = "LOGIN";
+            this.button1.Text = "Login";
             this.button1.UseVisualStyleBackColor = false;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // button2
             // 
             this.button2.BackColor = System.Drawing.Color.GreenYellow;
-            this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.button2.ForeColor = System.Drawing.Color.Black;
             this.button2.Location = new System.Drawing.Point(208, 183);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(100, 41);
             this.button2.TabIndex = 9;
-            this.button2.Text = "CONT NOU";
+            this.button2.Text = "New account";
             this.button2.UseVisualStyleBackColor = false;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 

@@ -34,8 +34,8 @@ namespace Casino_Royale
                     label6.Text = credit.ToString();
                     button1.Enabled = true;
                     button2.Enabled = true;
-                    button1.Text = "ROSIE";
-                    button2.Text = "NEAGRA";
+                    button1.Text = "RED";
+                    button2.Text = "BLACK";
                     button1.Font = new Font("Calibri", 18);
                     button2.Font = new Font("Calibri", 18);
                     button1.ForeColor = Color.White;
@@ -45,12 +45,12 @@ namespace Casino_Royale
                 }
                 else
                 {
-                    MessageBox.Show("Credit indisponibil");
+                    MessageBox.Show("Insufficient credit!");
                 } 
             }
             else
             {
-                MessageBox.Show("Trebuie sa plasasti o suma de pariere !"); 
+                MessageBox.Show("You need to place a bet sum!"); 
             }
         }
 
@@ -86,14 +86,14 @@ namespace Casino_Royale
                 pictureBox1.BackgroundImage = imagine[0];
                 pictureBox1.BackgroundImageLayout = ImageLayout.Stretch;
                 credit = credit + Convert.ToInt32(textBox1.Text) * 2;
-                MessageBox.Show("Bravo ! Ai castigat " + (Convert.ToInt32(textBox1.Text) * 2).ToString() + " !");
+                MessageBox.Show("Well done! You have won " + (Convert.ToInt32(textBox1.Text) * 2).ToString() + "!");
                 label6.Text = credit.ToString();
             }
             else
             {
                 pictureBox1.BackgroundImage = imagine[1];
                 pictureBox1.BackgroundImageLayout = ImageLayout.Stretch;
-                MessageBox.Show("Mai incearca ! Data viitoare poate ai mai mult noroc !");
+                MessageBox.Show("Try again! Maybe next time!");
             }
             textBox1.Text = "";
             button1.Enabled = false;
@@ -115,13 +115,13 @@ namespace Casino_Royale
             {
                 pictureBox1.BackgroundImage = imagine[0];
                 pictureBox1.BackgroundImageLayout = ImageLayout.Stretch;
-                MessageBox.Show("Mai incearca ! Data viitoare poate ai mai mult noroc !");
+                MessageBox.Show("Try again! Maybe next time!");
             }
             else
             {
                 pictureBox1.BackgroundImage = imagine[1];
                 pictureBox1.BackgroundImageLayout = ImageLayout.Stretch;
-                MessageBox.Show("Bravo ! Ai castigat " + (Convert.ToInt32(textBox1.Text) * 2).ToString() + " !");
+                MessageBox.Show("Well done! You have won " + (Convert.ToInt32(textBox1.Text) * 2).ToString() + " !");
                 credit = credit + Convert.ToInt32(textBox1.Text) * 2;
                 label6.Text = credit.ToString();
             }

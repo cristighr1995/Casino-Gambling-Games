@@ -60,9 +60,9 @@
             this.label2.ForeColor = System.Drawing.Color.White;
             this.label2.Location = new System.Drawing.Point(453, 80);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(295, 20);
+            this.label2.Size = new System.Drawing.Size(173, 20);
             this.label2.TabIndex = 1;
-            this.label2.Text = "Va rugam sa introduceti suma de pariere";
+            this.label2.Text = "Please place a bet sum";
             // 
             // textBox1
             // 
@@ -91,9 +91,9 @@
             this.label3.ForeColor = System.Drawing.Color.White;
             this.label3.Location = new System.Drawing.Point(4, 4);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(246, 18);
+            this.label3.Size = new System.Drawing.Size(137, 18);
             this.label3.TabIndex = 3;
-            this.label3.Text = "Selectati cate linii doriti sa aiba pariul";
+            this.label3.Text = "Select line numbers";
             // 
             // radioButton3
             // 
@@ -102,10 +102,10 @@
             this.radioButton3.ForeColor = System.Drawing.Color.White;
             this.radioButton3.Location = new System.Drawing.Point(4, 73);
             this.radioButton3.Name = "radioButton3";
-            this.radioButton3.Size = new System.Drawing.Size(125, 20);
+            this.radioButton3.Size = new System.Drawing.Size(122, 20);
             this.radioButton3.TabIndex = 2;
             this.radioButton3.TabStop = true;
-            this.radioButton3.Text = "3 plus diagonale";
+            this.radioButton3.Text = "3 and diagonals";
             this.radioButton3.UseVisualStyleBackColor = true;
             // 
             // radioButton2
@@ -142,7 +142,7 @@
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(291, 46);
             this.button1.TabIndex = 4;
-            this.button1.Text = "Incearca-ti norocul";
+            this.button1.Text = "I\'m feeling lucky";
             this.button1.UseVisualStyleBackColor = false;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
@@ -154,7 +154,7 @@
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(291, 46);
             this.button2.TabIndex = 5;
-            this.button2.Text = "Incaseaza castigul";
+            this.button2.Text = "Pick up winning";
             this.button2.UseVisualStyleBackColor = false;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
@@ -163,11 +163,11 @@
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.label4.ForeColor = System.Drawing.Color.White;
-            this.label4.Location = new System.Drawing.Point(461, 39);
+            this.label4.Location = new System.Drawing.Point(548, 39);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(164, 20);
+            this.label4.Size = new System.Drawing.Size(69, 20);
             this.label4.TabIndex = 6;
-            this.label4.Text = "CREDIT DISPONIBIL";
+            this.label4.Text = "CREDIT";
             // 
             // label5
             // 
@@ -292,7 +292,7 @@
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(291, 46);
             this.button3.TabIndex = 16;
-            this.button3.Text = "IESIRE";
+            this.button3.Text = "Exit";
             this.button3.UseVisualStyleBackColor = false;
             this.button3.Click += new System.EventHandler(this.button3_Click);
             // 

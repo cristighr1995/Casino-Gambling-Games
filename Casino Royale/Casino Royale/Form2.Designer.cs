@@ -54,9 +54,9 @@
             this.label1.ForeColor = System.Drawing.Color.White;
             this.label1.Location = new System.Drawing.Point(30, 30);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(279, 24);
+            this.label1.Size = new System.Drawing.Size(229, 24);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Alegeti unul din jocurile noastre ";
+            this.label1.Text = "Choose one of our games";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // pictureBox1
@@ -77,7 +77,7 @@
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(100, 32);
             this.label2.TabIndex = 2;
-            this.label2.Text = "ROSIE NEAGRA";
+            this.label2.Text = "Black or Red";
             this.label2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
@@ -99,7 +99,7 @@
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(100, 32);
             this.label3.TabIndex = 4;
-            this.label3.Text = "LUCKY SIX";
+            this.label3.Text = "Lucky Six";
             this.label3.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.label3.Click += new System.EventHandler(this.label3_Click);
             // 
@@ -121,7 +121,7 @@
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(100, 32);
             this.label4.TabIndex = 6;
-            this.label4.Text = "ZARURI";
+            this.label4.Text = "Dices";
             this.label4.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.label4.Click += new System.EventHandler(this.label4_Click);
             // 
@@ -143,7 +143,7 @@
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(100, 32);
             this.label5.TabIndex = 8;
-            this.label5.Text = "PACANELE";
+            this.label5.Text = "Slots";
             this.label5.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.label5.Click += new System.EventHandler(this.label5_Click);
             // 
@@ -165,7 +165,7 @@
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(100, 32);
             this.label6.TabIndex = 10;
-            this.label6.Text = "POKER";
+            this.label6.Text = "Poker";
             this.label6.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.label6.Click += new System.EventHandler(this.label6_Click);
             // 

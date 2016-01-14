@@ -50,15 +50,15 @@ namespace Casino_Royale
 
                 if (count == 1)
                 {
-                    MessageBox.Show("Bun venit, " + textBox1.Text + " !");
+                    MessageBox.Show("Welcome, " + textBox1.Text + "!");
                     this.Hide();
                     Form2 formDoi = new Form2();
                     formDoi.ShowDialog();
                 }
                 else
                 {
-                    if (count > 1) MessageBox.Show("Cont duplicat ! Va rugam sa va creati alt cont !");
-                    if (count == 0) MessageBox.Show("Ati introdus gresit username-ul sau parola sau contul este inexistent !");
+                    if (count > 1) MessageBox.Show("Duplicated account! Please create another one!");
+                    if (count == 0) MessageBox.Show("Username/password invalid!");
                 }
             }
             catch (SqlCeException ex)
@@ -78,7 +78,7 @@ namespace Casino_Royale
                 cmdInsert.Connection = conn;
                 conn.Open();
                 dr = cmdInsert.ExecuteReader();
-                MessageBox.Show("Contul a fost adaugat cu succes");
+                MessageBox.Show("The account has been successfully added!");
                 textBox1.Text = "";
                 textBox2.Text = ""; 
             }

@@ -154,7 +154,7 @@ namespace Casino_Royale
                             }
                             else
                             {
-                                MessageBox.Show("Sunteti nevoit sa pariati o suma mai mare de 5 !");
+                                MessageBox.Show("Please place a bet higher than 5!");
                             }
                         }
                         if (radioButton2.Checked == true)
@@ -174,7 +174,7 @@ namespace Casino_Royale
                             }
                             else
                             {
-                                MessageBox.Show("Trebuie sa pariati o suma mai mare de 20 !");
+                                MessageBox.Show("Please place a bet higher than 20!");
                             }
                         }
                         if (radioButton3.Checked == true)
@@ -194,23 +194,23 @@ namespace Casino_Royale
                             }
                             else
                             {
-                                MessageBox.Show("Trebuie sa pariati o suma mai mare de 50 !");
+                                MessageBox.Show("Please place a bet higher than 50!");
                             }
                         }
                     }
                     else
                     {
-                        MessageBox.Show("Trebuie sa alegeti pe cat linii doriti sa fie pariul !");
+                        MessageBox.Show("Choose line numbers!");
                     }
                 }
                 else
                 {
-                    MessageBox.Show("Credit Indisponibil");
+                    MessageBox.Show("Insufficient credit");
                 }
             }
             else
             {
-                MessageBox.Show("Trebuie sa completati suma de pariere");
+                MessageBox.Show("Please place a bet sum!");
             }
         }
 
@@ -226,7 +226,7 @@ namespace Casino_Royale
                 {
                     credit = credit + Convert.ToInt32(textBox1.Text) * 10;
                     label5.Text = credit.ToString();
-                    MessageBox.Show("Felicitari, ai castigat " + (Convert.ToInt32(textBox1.Text) * 10).ToString() + " !");
+                    MessageBox.Show("Congratulation! You have won " + (Convert.ToInt32(textBox1.Text) * 10).ToString() + " !");
                 }
                 else
                 {
@@ -234,10 +234,10 @@ namespace Casino_Royale
                     {
                         credit = credit + Convert.ToInt32(textBox1.Text) * 2;
                         label5.Text = credit.ToString();
-                        MessageBox.Show("Felicitari, ai castigat " + (Convert.ToInt32(textBox1.Text) * 2).ToString() + " !");
+                        MessageBox.Show("Congratulation! You have won " + (Convert.ToInt32(textBox1.Text) * 2).ToString() + " !");
                     }
                     else
-                        MessageBox.Show("Mai incearca ! Data viitoare poate ai mai mult noroc !");
+                        MessageBox.Show("Sorry! Maybe next time!");
                 }
             }
             if (radioButton2.Checked == true)
@@ -265,9 +265,9 @@ namespace Casino_Royale
                         credit = credit + Convert.ToInt32(textBox1.Text) * 2;
                     //daca tot nu s-a schimbat
                     if(verif == credit)
-                        MessageBox.Show("Mai incearca ! Data viitoare poate ai mai mult noroc !");
+                        MessageBox.Show("Sorry! Maybe next time!");
                     else
-                        MessageBox.Show("Felicitari, ai castigat " + (credit - verif).ToString() + " !");
+                        MessageBox.Show("Congratulation! You have won " + (credit - verif).ToString() + " !");
                 }
                 else
                 {
@@ -308,13 +308,13 @@ namespace Casino_Royale
                         credit = credit + Convert.ToInt32(textBox1.Text) * 2;
                     //daca tot nu s-a schimbat
                     if (verif2 == credit)
-                        MessageBox.Show("Mai incearca ! Data viitoare poate ai mai mult noroc !");
+                        MessageBox.Show("Sorry! Maybe next time!");
                     else
-                        MessageBox.Show("Felicitari, ai castigat " + (credit - verif2).ToString() + " !");
+                        MessageBox.Show("Congratulation! You have won " + (credit - verif2).ToString() + " !");
                 }
                 else
                 {
-                    MessageBox.Show("Felicitari, ai castigat " + (credit - verif2).ToString() + " !");
+                    MessageBox.Show("Congratulation! You have won " + (credit - verif2).ToString() + " !");
                 }
                 label5.Text = credit.ToString();
             }

@@ -118,3 +118,18 @@ C:\Users\Gherghina\Desktop\Casino Royale 2 ala bun\Casino Royale\obj\x86\Debug\C
 C:\Users\Gherghina\Desktop\Casino Royale 2 ala bun\Casino Royale\obj\x86\Debug\Casino_Royale.Form6.resources
 C:\Users\Gherghina\Desktop\Casino Royale 2 ala bun\Casino Royale\obj\x86\Debug\Casino_Royale.Properties.Resources.resources
 C:\Users\Gherghina\Desktop\Casino Royale 2 ala bun\Casino Royale\obj\x86\Debug\Casino Royale.csproj.GenerateResource.Cache
+C:\Users\crist\Documents\GitHub\Casino-Gambling-Games\Casino Royale\Casino Royale\bin\Debug\Casino Royale.exe.config
+C:\Users\crist\Documents\GitHub\Casino-Gambling-Games\Casino Royale\Casino Royale\obj\x86\Debug\Casino Royale.exe
+C:\Users\crist\Documents\GitHub\Casino-Gambling-Games\Casino Royale\Casino Royale\obj\x86\Debug\Casino Royale.pdb
+C:\Users\crist\Documents\GitHub\Casino-Gambling-Games\Casino Royale\Casino Royale\bin\Debug\Database1.sdf
+C:\Users\crist\Documents\GitHub\Casino-Gambling-Games\Casino Royale\Casino Royale\bin\Debug\Casino Royale.exe
+C:\Users\crist\Documents\GitHub\Casino-Gambling-Games\Casino Royale\Casino Royale\bin\Debug\Casino Royale.pdb
+C:\Users\crist\Documents\GitHub\Casino-Gambling-Games\Casino Royale\Casino Royale\obj\x86\Debug\Casino Royale.csprojResolveAssemblyReference.cache
+C:\Users\crist\Documents\GitHub\Casino-Gambling-Games\Casino Royale\Casino Royale\obj\x86\Debug\Casino_Royale.Form1.resources
+C:\Users\crist\Documents\GitHub\Casino-Gambling-Games\Casino Royale\Casino Royale\obj\x86\Debug\Casino_Royale.Form2.resources
+C:\Users\crist\Documents\GitHub\Casino-Gambling-Games\Casino Royale\Casino Royale\obj\x86\Debug\Casino_Royale.Form3.resources
+C:\Users\crist\Documents\GitHub\Casino-Gambling-Games\Casino Royale\Casino Royale\obj\x86\Debug\Casino_Royale.Form4.resources
+C:\Users\crist\Documents\GitHub\Casino-Gambling-Games\Casino Royale\Casino Royale\obj\x86\Debug\Casino_Royale.Form5.resources
+C:\Users\crist\Documents\GitHub\Casino-Gambling-Games\Casino Royale\Casino Royale\obj\x86\Debug\Casino_Royale.Form6.resources
+C:\Users\crist\Documents\GitHub\Casino-Gambling-Games\Casino Royale\Casino Royale\obj\x86\Debug\Casino_Royale.Properties.Resources.resources
+C:\Users\crist\Documents\GitHub\Casino-Gambling-Games\Casino Royale\Casino Royale\obj\x86\Debug\Casino Royale.csproj.GenerateResource.Cache
